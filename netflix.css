@@ -1,0 +1,56 @@
+.bgimage{
+	background-image: url(https://images.hdqwalls.com/wallpapers/lucifer-tv-show-poster-bn.jpg);
+	background-size: cover;
+	height: 150vh;
+}
+.netflix{
+	margin:17px;
+	margin-bottom: 20px;
+}
+.toprightbutton{
+	border-radius: 2px;
+	height: 42px;
+	width: 110px;
+	background-color: #DB202C;
+	color: white;
+	border:none;
+	margin: 17px;
+}
+.toprightbutton:hover{
+	box-shadow: 0 0 50px black;
+}
+.title{
+	margin: 17px;
+}
+.paraone{
+	color: grey;
+	margin: 20px;
+}
+.paratwo{
+	color: white;
+	margin: 20px;
+}
+span{
+	color: grey;
+}
+.parathree{
+	color: white;
+	margin: 20px;
+}
+.streaming{
+	margin: 12px;
+}
+.stylebutton{
+	/*padding: 7px;
+	padding-bottom: 2px;*/
+	height: 45px;
+	width: 110px;
+	border-radius: 3px;
+	background-color: #DB202C;
+	color: white;
+	border: none;
+	margin: 12px;
+}
+.stylebutton:hover{
+	box-shadow:0 0 30px black;
+}
